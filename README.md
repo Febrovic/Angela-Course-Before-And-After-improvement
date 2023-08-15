@@ -13,7 +13,7 @@
 
 ## Section 7: Dicee - Building Apps with State
 
-* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
+* [Dicee Completed Project]([https://github.com/londonappbrewery/Dicee-Flutter-Completed](https://github.com/Febrovic/Dicee-Without-Imporvment))
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
