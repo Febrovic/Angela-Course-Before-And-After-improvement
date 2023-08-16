@@ -30,7 +30,7 @@
 
 ## Clima - Powering Your Flutter App with Live Weather Web Data
 
-* [Clima Completed Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
+* [Clima Completed Project](https://github.com/Febrovic/Clima-Without-Improvement)
 
 ## Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
 
