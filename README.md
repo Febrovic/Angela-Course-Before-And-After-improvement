@@ -22,7 +22,7 @@
 
 ## Boss Level Challenge 2 - Destini
 
-* [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
+* [Destini Solution & Completed Project](https://github.com/Febrovic/Destini-Without-Improvement)
 
 ## BMI Calculator - Building Flutter UIs for Intermediates
 
