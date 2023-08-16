@@ -10,7 +10,7 @@
 
 ## Boss Level Challenge 1 - Magic 8 Ball
 
-* [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
+* [Magic 8 Ball Stub](https://github.com/Febrovic/Magic8-Ball-Without-Imporvment)
 
 ## Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
