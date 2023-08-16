@@ -14,7 +14,7 @@
 
 ## Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
-* [Xylophone Completed Project](https://github.com/londonappbrewery/Xylophone-Flutter-Completed)
+* [Xylophone Completed Project](https://github.com/Febrovic/Xylophone-Without-Improvement)
 
 ## Quizzler - Modularising & Organising Flutter Code
 
