@@ -26,7 +26,7 @@
 
 ## BMI Calculator - Building Flutter UIs for Intermediates
 
-* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
+* [BMI Completed Project](https://github.com/Febrovic/BMI-Calculator-Without-Improvement)
 
 ## Clima - Powering Your Flutter App with Live Weather Web Data
 
