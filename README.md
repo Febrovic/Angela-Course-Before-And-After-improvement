@@ -34,7 +34,7 @@
 
 ## Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
 
-* [Bitcoin Completed Project](https://github.com/londonappbrewery/bitcoin-flutter-final)
+* [Bitcoin Completed Project](https://github.com/Febrovic/Bitcoin-Ticker-Without-Improvement)
 
 ## Flash Chat - Flutter x Firebase Cloud Firestore
 
