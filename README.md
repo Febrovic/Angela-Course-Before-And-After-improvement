@@ -18,7 +18,7 @@
 
 ## Quizzler - Modularising & Organising Flutter Code
 
-* [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Quizzler Solution & Completed Project](https://github.com/Febrovic/Quizzler-Without-Improvement)
 
 ## Boss Level Challenge 2 - Destini
 
