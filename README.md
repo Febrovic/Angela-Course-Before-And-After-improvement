@@ -38,7 +38,7 @@
 
 ## Flash Chat - Flutter x Firebase Cloud Firestore
 
-* [Flash Chat Completed Project](https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete)
+* [Flash Chat Completed Project](https://github.com/Febrovic/Flash-Chat-Without-Improvement)
 
 ## Flutter State Management
 
