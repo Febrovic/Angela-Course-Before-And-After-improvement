@@ -42,4 +42,4 @@
 
 ## Flutter State Management
 
-* [Todoey Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+* [Todoey Completed Project](https://github.com/Febrovic/Todoey-Without-Improvement)
