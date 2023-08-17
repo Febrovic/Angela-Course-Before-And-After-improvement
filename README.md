@@ -1,45 +1,45 @@
 # Angela Course Before And After improvement
 
-## MiCard - How to Build Beautiful UIs with Flutter Widgets
+## MiCard 
 
-* [MiCard Completed Project](https://github.com/Febrovic/MiCard-Without-Imporvment)
+* [MiCard (Before)](https://github.com/Febrovic/MiCard-Without-Imporvment)
 
-## Dicee - Building Apps with State
+## Dicee 
 
-* [Dicee Completed Project](https://github.com/Febrovic/Dicee-Without-Imporvment)
+* [Dicee (Before)](https://github.com/Febrovic/Dicee-Without-Imporvment)
 
-## Boss Level Challenge 1 - Magic 8 Ball
+## Magic 8 Ball
 
-* [Magic 8 Ball Stub](https://github.com/Febrovic/Magic8-Ball-Without-Imporvment)
+* [Magic 8 Ball (Before)](https://github.com/Febrovic/Magic8-Ball-Without-Imporvment)
 
-## Xylophone - Using Flutter and Dart Packages to Speed Up Development
+## Xylophone
 
-* [Xylophone Completed Project](https://github.com/Febrovic/Xylophone-Without-Improvement)
+* [Xylophone (Before)](https://github.com/Febrovic/Xylophone-Without-Improvement)
 
-## Quizzler - Modularising & Organising Flutter Code
+## Quizzler
 
-* [Quizzler Solution & Completed Project](https://github.com/Febrovic/Quizzler-Without-Improvement)
+* [Quizzler (Before)](https://github.com/Febrovic/Quizzler-Without-Improvement)
 
-## Boss Level Challenge 2 - Destini
+## Destini
 
-* [Destini Solution & Completed Project](https://github.com/Febrovic/Destini-Without-Improvement)
+* [Destini (Before)](https://github.com/Febrovic/Destini-Without-Improvement)
 
-## BMI Calculator - Building Flutter UIs for Intermediates
+## BMI Calculator
 
-* [BMI Completed Project](https://github.com/Febrovic/BMI-Calculator-Without-Improvement)
+* [BMI (Before)](https://github.com/Febrovic/BMI-Calculator-Without-Improvement)
 
-## Clima - Powering Your Flutter App with Live Weather Web Data
+## Clima
 
-* [Clima Completed Project](https://github.com/Febrovic/Clima-Without-Improvement)
+* [Clima (Before)](https://github.com/Febrovic/Clima-Without-Improvement)
 
-## Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
+## Bitcoin Ticker 
 
-* [Bitcoin Completed Project](https://github.com/Febrovic/Bitcoin-Ticker-Without-Improvement)
+* [Bitcoin (Before)](https://github.com/Febrovic/Bitcoin-Ticker-Without-Improvement)
 
-## Flash Chat - Flutter x Firebase Cloud Firestore
+## Flash Chat
 
-* [Flash Chat Completed Project](https://github.com/Febrovic/Flash-Chat-Without-Improvement)
+* [Flash Chat (Before)](https://github.com/Febrovic/Flash-Chat-Without-Improvement)
 
-## Flutter State Management
+## Todoey
 
-* [Todoey Completed Project](https://github.com/Febrovic/Todoey-Without-Improvement)
+* [Todoey (Before)](https://github.com/Febrovic/Todoey-Without-Improvement)
